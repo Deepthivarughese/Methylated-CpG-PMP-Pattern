@@ -5,5 +5,6 @@ In this project we try to find out if : Phased methylation patterns (PMPs) can a
 The python code written will give the following information from the coordinates and relative positions of 3 CpG sites and their methylation status in a .csv file 
 1. Median and coefficient of variation (CV) for single CpG coverage in each tissue and coverage statistics plotting.
 2. Identify PMPs with high specificity, minimizing false positives using a statistical approach to assign confidence
-3. Identify PMPs with high specificity, minimizing false positives using statistical and ML approach to assign confidence
-4. Calculate the mean variant read fraction (VRF) for each PMP in both tissues
+3. Identify PMPs with high specificity, minimizing false positives using ML approach
+4. Identify PMPs with high specificity, minimizing false positives using statistical and ML approach
+5. Calculate the mean variant read fraction (VRF) for each PMP in both tissues
